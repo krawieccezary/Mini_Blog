@@ -1,4 +1,4 @@
-# Mini_Blog (not finished yet)
+# Mini_CMS (not finished yet)
 mini blog with:
 
 html5 <br>
